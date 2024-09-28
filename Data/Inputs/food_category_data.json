@@ -1,0 +1,510 @@
+{
+    "Leche Liconsa": {
+        "grupo": "Lácteos",
+        "subgrupo": "Leche"
+    },
+    "Otra leche opción A": {
+        "grupo": "Lácteos",
+        "subgrupo": "Leche"
+    },
+    "Otra leche opción B": {
+        "grupo": "Lácteos",
+        "subgrupo": "Leche"
+    },
+    "Otra leche opción C": {
+        "grupo": "Lácteos",
+        "subgrupo": "Leche"
+    },
+    "Otra Leche A": {
+        "grupo": "Lácteos",
+        "subgrupo": "Leche"
+    },
+    "Otra Leche B": {
+        "grupo": "Lácteos",
+        "subgrupo": "Leche"
+    },
+    "Otra Leche C": {
+        "grupo": "Lácteos",
+        "subgrupo": "Leche"
+    },
+    "Leche materna": {
+        "grupo": "Lácteos",
+        "subgrupo": "Leche"
+    },
+    "Leche preparada de sabor (chocolate u otro sabor)": {
+        "grupo": "Lácteos",
+        "subgrupo": "Leche"
+    },
+    "Yogur de vaso: a) Entero natural": {
+        "grupo": "Lácteos",
+        "subgrupo": "Yogur"
+    },
+    "Yogur de vaso: b) Entero con frutas": {
+        "grupo": "Lácteos",
+        "subgrupo": "Yogur"
+    },
+    "Yogur de vaso: c) Bajo en grasa o light natural o con fruta": {
+        "grupo": "Lácteos",
+        "subgrupo": "Yogur"
+    },
+    "Yogur para beber: a) Entero natural": {
+        "grupo": "Lácteos",
+        "subgrupo": "Yogur"
+    },
+    "Yogur para beber: b) Entero con fruta": {
+        "grupo": "Lácteos",
+        "subgrupo": "Yogur"
+    },
+    "Yogur para beber: c) Bajo en grasa o light natural o con fruta": {
+        "grupo": "Lácteos",
+        "subgrupo": "Yogur"
+    },
+    "Danonino o similar": {
+        "grupo": "Lácteos",
+        "subgrupo": "General"
+    },
+    "Yakult o similares": {
+        "grupo": "Lácteos",
+        "subgrupo": "General"
+    },
+    "Plátano": {
+        "grupo": "Frutas",
+        "subgrupo": "Frutas"
+    },
+    "Naranja o mandarina": {
+        "grupo": "Frutas",
+        "subgrupo": "Frutas"
+    },
+    "Manzana o pera": {
+        "grupo": "Frutas",
+        "subgrupo": "Frutas"
+    },
+    "Melón o sandía": {
+        "grupo": "Frutas",
+        "subgrupo": "Frutas"
+    },
+    "Guayaba": {
+        "grupo": "Frutas",
+        "subgrupo": "Frutas"
+    },
+    "Mango": {
+        "grupo": "Frutas",
+        "subgrupo": "Frutas"
+    },
+    "Papaya": {
+        "grupo": "Frutas",
+        "subgrupo": "Frutas"
+    },
+    "Piña": {
+        "grupo": "Frutas",
+        "subgrupo": "Frutas"
+    },
+    "Toronja": {
+        "grupo": "Frutas",
+        "subgrupo": "Frutas"
+    },
+    "Fresa": {
+        "grupo": "Frutas",
+        "subgrupo": "Frutas"
+    },
+    "Uvas": {
+        "grupo": "Frutas",
+        "subgrupo": "Frutas"
+    },
+    "Durazno/melocotón": {
+        "grupo": "Frutas",
+        "subgrupo": "Frutas"
+    },
+    "Frutas en almíbar": {
+        "grupo": "Frutas",
+        "subgrupo": "Frutas"
+    },
+    "Frutas cristalizadas o secas": {
+        "grupo": "Frutas",
+        "subgrupo": "Frutas"
+    },
+    "Jícama": {
+        "grupo": "Verduras",
+        "subgrupo": "Verduras"
+    },
+    "Jitomate": {
+        "grupo": "Verduras",
+        "subgrupo": "Verduras"
+    },
+    "Hojas Verdes (acelgas espinacas quelites)": {
+        "grupo": "Verduras",
+        "subgrupo": "Verduras"
+    },
+    "Chayote": {
+        "grupo": "Verduras",
+        "subgrupo": "Verduras"
+    },
+    "Zanahoria": {
+        "grupo": "Verduras",
+        "subgrupo": "Verduras"
+    },
+    "Calabacita": {
+        "grupo": "Verduras",
+        "subgrupo": "Verduras"
+    },
+    "Brócoli o coliflor": {
+        "grupo": "Verduras",
+        "subgrupo": "Verduras"
+    },
+    "Col": {
+        "grupo": "Verduras",
+        "subgrupo": "Verduras"
+    },
+    "Ejotes": {
+        "grupo": "Verduras",
+        "subgrupo": "Verduras"
+    },
+    "Elote": {
+        "grupo": "Verduras",
+        "subgrupo": "Verduras"
+    },
+    "Lechuga": {
+        "grupo": "Verduras",
+        "subgrupo": "Verduras"
+    },
+    "Nopales": {
+        "grupo": "Verduras",
+        "subgrupo": "Verduras"
+    },
+    "Pepino": {
+        "grupo": "Verduras",
+        "subgrupo": "Verduras"
+    },
+    "Chile poblano": {
+        "grupo": "Verduras",
+        "subgrupo": "Verduras"
+    },
+    "Cebolla": {
+        "grupo": "Verduras",
+        "subgrupo": "Verduras"
+    },
+    "Verduras envasadas como chícharo zanahoria champiñones ejotes": {
+        "grupo": "Verduras",
+        "subgrupo": "Verduras"
+    },
+    "Arroz guisado": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "General"
+    },
+    "Avena en hojuelas amaranto natural o tostado": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "General"
+    },
+    "Pan blanco": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "Pan"
+    },
+    "Pan integral": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "Pan"
+    },
+    "Pan dulce (excepto donas y churros)": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "Pan"
+    },
+    "Donas y churros de panadería": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "Pan"
+    },
+    "Galletas integrales": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "General"
+    },
+    "Galletas saladas": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "General"
+    },
+    "Papas a) Cocida": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "General"
+    },
+    "Papas b) Frita": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "General"
+    },
+    "Torta o sándwich con pan blanco": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "Pan"
+    },
+    "Torta o sándwich con pan integral": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "Pan"
+    },
+    "Cereal a) Chocolate": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "Cereal"
+    },
+    "Cereal b) Light/cuidado de la figura": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "Cereal"
+    },
+    "Cereal c) Hojuela endulzada": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "Cereal"
+    },
+    "Cereal d) Básico": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "Cereal"
+    },
+    "Cereal e) Variedades": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "Cereal"
+    },
+    "Cereal f) Sabor a frutas": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "Cereal"
+    },
+    "Cereal g) Fibra": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "Cereal"
+    },
+    "Cereal h) Especialidades": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "Cereal"
+    },
+    "Cereal i) Multi ingredientes": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "Cereal"
+    },
+    "Tamal (todos tipos)": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "General"
+    },
+    "Sopa de pasta": {
+        "grupo": "Cereales y Tubérculos",
+        "subgrupo": "General"
+    },
+    "Frijoles preparados en casa: a) De la olla": {
+        "grupo": "",
+        "subgrupo": "General"
+    },
+    "Frijoles preparados en casa: b) Refritos": {
+        "grupo": "",
+        "subgrupo": "General"
+    },
+    "Lenteja garbanzo haba amarilla o alubia": {
+        "grupo": "",
+        "subgrupo": "General"
+    },
+    "Queso panela o fresco o cottage": {
+        "grupo": "Alimentos de origen animal",
+        "subgrupo": "Queso"
+    },
+    "Quesos madurados (chihuahua manchego gouda etc.)": {
+        "grupo": "Alimentos de origen animal",
+        "subgrupo": "Queso"
+    },
+    "Carne de puerco": {
+        "grupo": "",
+        "subgrupo": "Carne"
+    },
+    "Carne de res": {
+        "grupo": "",
+        "subgrupo": "Carne"
+    },
+    "Carne de res seca (machaca)": {
+        "grupo": "",
+        "subgrupo": "Carne"
+    },
+    "Longaniza o chorizo": {
+        "grupo": "",
+        "subgrupo": "General"
+    },
+    "Salchicha de puerco pavo o combinado jamón": {
+        "grupo": "",
+        "subgrupo": "General"
+    },
+    "Pollo a) Pierna muslo o pechuga": {
+        "grupo": "",
+        "subgrupo": "Pollo"
+    },
+    "Pollo b) Ala patas": {
+        "grupo": "",
+        "subgrupo": "Pollo"
+    },
+    "Pollo c) Higadito o molleja": {
+        "grupo": "",
+        "subgrupo": "Pollo"
+    },
+    "Huevo a) Tibio o cocido": {
+        "grupo": "",
+        "subgrupo": "General"
+    },
+    "Huevo b) Frito estrellado o revuelto": {
+        "grupo": "",
+        "subgrupo": "General"
+    },
+    "Pescado fresco": {
+        "grupo": "",
+        "subgrupo": "Pescado"
+    },
+    "Pescado seco (charalitos bacalao)": {
+        "grupo": "",
+        "subgrupo": "Pescado"
+    },
+    "Atún y sardina (en tomate agua o aceite)": {
+        "grupo": "",
+        "subgrupo": "General"
+    },
+    "Algún marisco (camarón ostiones etc.)": {
+        "grupo": "",
+        "subgrupo": "General"
+    },
+    "Aguacate": {
+        "grupo": "Aceites y Grasas",
+        "subgrupo": "General"
+    },
+    "Margarina": {
+        "grupo": "Aceites y Grasas",
+        "subgrupo": "General"
+    },
+    "Mantequilla": {
+        "grupo": "Aceites y Grasas",
+        "subgrupo": "General"
+    },
+    "Mayonesa": {
+        "grupo": "Aceites y Grasas",
+        "subgrupo": "General"
+    },
+    "Manteca vegetal": {
+        "grupo": "Aceites y Grasas",
+        "subgrupo": "General"
+    },
+    "Manteca animal (cerdo o pollo)": {
+        "grupo": "Aceites y Grasas",
+        "subgrupo": "Pollo"
+    },
+    "Azúcar agregada a la leche": {
+        "grupo": "Azúcares",
+        "subgrupo": "Leche"
+    },
+    "Refresco Normal": {
+        "grupo": "Azúcares",
+        "subgrupo": "General"
+    },
+    "Refresco Dieta": {
+        "grupo": "Azúcares",
+        "subgrupo": "General"
+    },
+    "Café con azúcar": {
+        "grupo": "Azúcares",
+        "subgrupo": "General"
+    },
+    "Jugos naturales sin azúcar": {
+        "grupo": "Azúcares",
+        "subgrupo": "General"
+    },
+    "Jugos naturales con azúcar": {
+        "grupo": "Azúcares",
+        "subgrupo": "General"
+    },
+    "Aguas de fruta natural con azúcar": {
+        "grupo": "Azúcares",
+        "subgrupo": "General"
+    },
+    "Chocolate": {
+        "grupo": "Azúcares",
+        "subgrupo": "General"
+    },
+    "Dulces (caramelos paletas)": {
+        "grupo": "Azúcares",
+        "subgrupo": "General"
+    },
+    "Gelatina flan": {
+        "grupo": "Azúcares",
+        "subgrupo": "General"
+    },
+    "Pastel o pay": {
+        "grupo": "Azúcares",
+        "subgrupo": "General"
+    },
+    "Helado nieves y paletas de agua": {
+        "grupo": "Azúcares",
+        "subgrupo": "General"
+    },
+    "Helado y paletas de leche": {
+        "grupo": "Azúcares",
+        "subgrupo": "Leche"
+    },
+    "Néctares con azúcar": {
+        "grupo": "Azúcares",
+        "subgrupo": "General"
+    },
+    "Barras de cereal": {
+        "grupo": "Azúcares",
+        "subgrupo": "Cereal"
+    },
+    "Frituras": {
+        "grupo": "Misceláneos",
+        "subgrupo": "General"
+    },
+    "Pastelillos industrializados": {
+        "grupo": "Misceláneos",
+        "subgrupo": "General"
+    },
+    "Galletas dulces": {
+        "grupo": "Misceláneos",
+        "subgrupo": "General"
+    },
+    "Paletas de malvavisco": {
+        "grupo": "Misceláneos",
+        "subgrupo": "General"
+    },
+    "Sopas instantáneas": {
+        "grupo": "Misceláneos",
+        "subgrupo": "General"
+    },
+    "Salsas y aderezos (cátsup)": {
+        "grupo": "Misceláneos",
+        "subgrupo": "General"
+    },
+    "Salsas de soya o inglesa": {
+        "grupo": "Misceláneos",
+        "subgrupo": "General"
+    },
+    "Bebidas alcohólicas": {
+        "grupo": "Misceláneos",
+        "subgrupo": "General"
+    },
+    "Agua sola": {
+        "grupo": "Misceláneos",
+        "subgrupo": "General"
+    },
+    "Caldo de pollo": {
+        "grupo": "Misceláneos",
+        "subgrupo": "Pollo"
+    },
+    "Sopa con verduras": {
+        "grupo": "Misceláneos",
+        "subgrupo": "General"
+    },
+    "Limón": {
+        "grupo": "Misceláneos",
+        "subgrupo": "General"
+    },
+    "Sal": {
+        "grupo": "Misceláneos",
+        "subgrupo": "General"
+    },
+    "Salsas picante": {
+        "grupo": "Misceláneos",
+        "subgrupo": "General"
+    },
+    "Hamburguesa": {
+        "grupo": "",
+        "subgrupo": "General"
+    },
+    "Pizza": {
+        "grupo": "",
+        "subgrupo": "General"
+    },
+    "Hot dog": {
+        "grupo": "",
+        "subgrupo": "General"
+    }
+}
