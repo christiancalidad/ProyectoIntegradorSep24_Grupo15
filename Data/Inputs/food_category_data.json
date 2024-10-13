@@ -1,102 +1,102 @@
 {
     "Leche Liconsa": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Leche",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Otra leche opción A": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Leche",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Otra leche opción B": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Leche",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Otra leche opción C": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Leche",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Otra Leche A": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Leche",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Otra Leche B": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Leche",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Otra Leche C": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Leche",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Leche materna": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Leche",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Leche preparada de sabor (chocolate u otro sabor)": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Leche",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Yogur de vaso: a) Entero natural": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Yogur",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Yogur de vaso: b) Entero con frutas": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Yogur",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Yogur de vaso: c) Bajo en grasa o light natural o con fruta": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Yogur",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Yogur para beber: a) Entero natural": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Yogur",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Yogur para beber: b) Entero con fruta": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Yogur",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Yogur para beber: c) Bajo en grasa o light natural o con fruta": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Yogur",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Danonino o similar": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "General",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Yakult o similares": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "General",
         "moderacion": "Grasas",
         "balance": ""
@@ -438,13 +438,13 @@
         "balance": ""
     },
     "Queso panela o fresco o cottage": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Queso",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Quesos madurados (chihuahua manchego gouda etc.)": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Queso",
         "moderacion": "Grasas",
         "balance": ""
@@ -540,14 +540,14 @@
         "balance": ""
     },
     "Margarina": {
-        "grupo": "Lácteos",
-        "subgrupo": "Lácteos",
+        "grupo": "Lacteos",
+        "subgrupo": "Lacteos",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Mantequilla": {
-        "grupo": "Lácteos",
-        "subgrupo": "Lácteos",
+        "grupo": "Lacteos",
+        "subgrupo": "Lacteos",
         "moderacion": "Grasas",
         "balance": ""
     },
@@ -570,26 +570,26 @@
         "balance": ""
     },
     "Azúcar agregada a la leche": {
-        "grupo": "Azúcares",
+        "grupo": "Azucares",
         "subgrupo": "Leche",
         "moderacion": "None",
         "balance": ""
     },
     "Refresco Normal": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "None",
         "balance": ""
     },
     "Refresco Dieta": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "None",
         "balance": ""
     },
     "Café con azúcar": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "None",
         "balance": ""
     },
@@ -606,55 +606,55 @@
         "balance": ""
     },
     "Aguas de fruta natural con azúcar": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "None",
         "balance": ""
     },
     "Chocolate": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "Grasas Saturadas",
         "balance": ""
     },
     "Dulces (caramelos paletas)": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "Grasas Saturadas",
         "balance": ""
     },
     "Gelatina flan": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "Grasas Saturadas",
         "balance": ""
     },
     "Pastel o pay": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "Grasas Saturadas",
         "balance": ""
     },
     "Helado nieves y paletas de agua": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "None",
         "balance": ""
     },
     "Helado y paletas de leche": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "Calorias Vacias",
         "balance": ""
     },
     "Néctares con azúcar": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "Calorias Vacias",
         "balance": ""
     },
     "Barras de cereal": {
-        "grupo": "Azúcares",
+        "grupo": "Azucares",
         "subgrupo": "Cereal",
         "moderacion": "Grasas Saturadas",
         "balance": ""
@@ -762,31 +762,31 @@
         "balance": ""
     },
     "Agregado a la leche: Azúcar": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "Grasas Saturadas",
         "balance": ""
     },
     "Agregado a la leche: Chocolate u otro saborizante": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "Grasas Saturadas",
         "balance": ""
     },
     "Quesos madurados (chihuahua, manchego, gouda, etc.)": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Queso",
         "moderacion": "Grasas Saturadas",
         "balance": ""
     },
     "Yogur de vaso: c) Bajo en grasa o light natural o con fruta (vitalinea, alpura light, lala light, etc.)": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Yogur",
         "moderacion": "None",
         "balance": ""
     },
     "Yogur para beber: c) Bajo en grasa o light natural o con fruta (vitalinea, activia 0%, Siluette)": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Yogur",
         "moderacion": "None",
         "balance": ""
@@ -989,7 +989,7 @@
         "moderacion": "Calorias Vacias",
         "balance": ""
     },
-    "Atole de maíz b) Atole con leche (aparte de la reportada en el apartado de “Productos lácteos”)": {
+    "Atole de maíz b) Atole con leche (aparte de la reportada en el apartado de “Productos Lacteos”)": {
         "grupo": "Misceláneos",
         "subgrupo": "Misceláneos",
         "moderacion": "Calorias Vacias",
@@ -1002,12 +1002,12 @@
         "balance": ""
     },
     "Café: b) Azúcar agregada al café": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "Calorias Vacias",
         "balance": ""
     },
-    "Café: c) Leche agregada al café (aparte de la reportada en el apartado de “Productos lácteos”)": {
+    "Café: c) Leche agregada al café (aparte de la reportada en el apartado de “Productos Lacteos”)": {
         "grupo": "Misceláneos",
         "subgrupo": "Misceláneos",
         "moderacion": "Calorias Vacias",
@@ -1050,20 +1050,20 @@
         "balance": ""
     },
     "Néctares de frutas o pulpa de frutas industrializados con azúcar (boing, jumex)": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "Grasas Saturadas",
         "balance": ""
     },
     "Dulce (caramelos, paletas)": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "Grasas Saturadas",
         "balance": ""
     },
     "Dulces enchilados (miguelitos, tamarindos)": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "Sodio",
         "balance": ""
     },
@@ -1074,20 +1074,20 @@
         "balance": ""
     },
     "Paletas y dulces de malvavisco (paleta payaso, bubu-lu-bu)": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "Calorias Vacias",
         "balance": ""
     },
     "Gelatina, flan": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "Calorias Vacias",
         "balance": ""
     },
     "Helado, nieves y paletas de agua": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "Grasas Saturadas",
         "balance": ""
     },
@@ -1188,13 +1188,13 @@
         "balance": ""
     },
     "Azúcar (a parte de la agregada a las bebidas, leche, té, café, agua de frutas) por ejemplo en fresas o plátanos con crema": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "Calorias Vacias",
         "balance": ""
     },
     "Crema": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Crema",
         "moderacion": "Grasas",
         "balance": ""
@@ -1224,49 +1224,49 @@
         "balance": ""
     },
     "Agreagado a la leche: Azúcar": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "Calorias Vacias",
         "balance": ""
     },
     "Agreagado a la leche: Chocolate u otro saborizante": {
-        "grupo": "Azúcares",
-        "subgrupo": "Azúcares",
+        "grupo": "Azucares",
+        "subgrupo": "Azucares",
         "moderacion": "Calorias Vacias",
         "balance": ""
     },
     "Yogur en vaso: Entero natural": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Yogur",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Yogur en vaso: Entero con frutas": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Yogur",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Yogur en vaso: Bajo en grasa o light natural o con fruta (vitalínea, alpura light, lala light, etcétera)": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Yogur",
         "moderacion": "Calorias Vacias",
         "balance": ""
     },
     "Yogur para beber: Entero natural": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Yogur",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Yogur para beber: Entero con frutas": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Yogur",
         "moderacion": "Grasas",
         "balance": ""
     },
     "Yogur para beber: Bajo en grasa o light natural o con fruta (vitalínea, activia 0%, Siluette, etcétera)": {
-        "grupo": "Lácteos",
+        "grupo": "Lacteos",
         "subgrupo": "Yogur",
         "moderacion": "Calorias Vacias",
         "balance": ""
@@ -1397,7 +1397,7 @@
         "moderacion": "Colesterol",
         "balance": ""
     },
-    "Atole de maíz  b) Atole con leche (aparte de la reportada en el apartado de “Productos lácteos”)": {
+    "Atole de maíz  b) Atole con leche (aparte de la reportada en el apartado de “Productos Lacteos”)": {
         "grupo": "Misceláneos",
         "subgrupo": "Misceláneos",
         "moderacion": "Calorias Vacias",
